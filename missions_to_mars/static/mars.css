@@ -1,0 +1,27 @@
+h1 {
+    position: relative;
+    height: 300px;
+    width: 1300px;
+    top: 6%;
+    text-align: center;
+
+}
+
+#big-font {
+    font-size: 40px;
+  }
+
+.back-grey {
+    background-color: rgb(151, 176, 202);
+  }
+
+.right-align {
+    position: relative;
+    right: 20px;
+    top: 420px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
